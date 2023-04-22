@@ -1,6 +1,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" >
 <h1 align="center">Hey there!🙋🏽‍♂️, I'm Olonisakin David</h1>
-<h3 align="center">A passionate frontend developer and aspiring Software Engineeer from Nigeria</h3>
+<h2 align="center"><em>Experienced Robotics and Automation Developer</em>
+<h3 align="center"><hr>A passionate self- taught frontend developer <br> and <br> aspiring Software Engineeer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olonisakindavid&label=Profile%20views&color=0e75b6&style=flat" alt="olonisakindavid" /> </p>
 
@@ -15,6 +16,8 @@
 - 📫 How to reach me **olonisakin.david@stu.cu.edu.ng**
 
 - ⚡ Fun fact **I play the bass guitar 🎸 and keyboard🎹**
+
+- 🏫 2022/2023 Covenant University EEE set, Cohort 7 Developer @ Robotics and Artificial Artificial Nigeria 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
