@@ -1,7 +1,7 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" >
 <h1 align="center">Hey there!🙋🏽‍♂️, I'm Olonisakin David</h1>
 <h2 align="center"><em>Certified Robotics and Automation Developer</em>
-<h3 align="center"><hr>A passionate self- taught frontend developer and Aspiring Software Engineeer<br> from Nigeria</h3>
+<h3 align="center"><hr>A Software Engineeer<br> from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olonisakindavid&label=Profile%20views&color=0e75b6&style=flat" alt="olonisakindavid" /> </p>
 
