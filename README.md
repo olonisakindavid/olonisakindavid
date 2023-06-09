@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/olonisakind" target="blank"><img src="https://img.shields.io/twitter/follow/olonisakind?logo=twitter&style=for-the-badge" alt="olonisakind" /></a> </p>
 
-- 🔭 I’m currently working on **Rain-I**
+- 🔭 I’m currently learning **Python (zero - mastery)**
 
-- 🌱 I’m currently learning **Javascript and React**
+- 🌱 Experience using **Javascript and React**
 
-- 💬 Ask me about **Web Development, Robotics**
+- 💬 Ask me about **Web Development, Robotics, Python**
 
 - 📫 How to reach me **olonisakin.david@stu.cu.edu.ng**
 
