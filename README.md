@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/olonisakind" target="blank"><img src="https://img.shields.io/twitter/follow/olonisakind?logo=twitter&style=for-the-badge" alt="olonisakind" /></a> </p>
 
-- 🔭 I’m currently learning **Python (zero - mastery)**
+- 🔭 I’m currently learning **Python (zero - mastery)** and **Flutter/Dart**
 
-- 🌱 Experience using **Javascript and React**
+- 🌱 Experienced using **Javascript and React**
 
 - 💬 Ask me about **Web Development, Robotics, Python**
 
