@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" >
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" >
 <h1 align="center">Hey there!🙋🏽‍♂️, I'm Olonisakin David</h1>
 <h2 align="center"><em>Certified Robotics and Automation Developer</em>
 <h3 align="center"><hr>🧑🏽‍💻A Software Engineer<br> from Nigeria</h3>
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently learning **Python (zero - mastery)** and **Flutter/Dart**
 
-- 🌱 Experienced using **Javascript and React**
+- 🌱 Knowledge on **Javascript and React**
 
 - 💬 Ask me about **Web Development, Robotics, Python**
 
@@ -37,3 +37,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olonisakindavid&" alt="olonisakindavid" /></p>
 
 [![OlonisakinDavid's GitHub | Stats](https://stats.quine.sh/OlonisakinDavid/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=OlonisakinDavid)
+
