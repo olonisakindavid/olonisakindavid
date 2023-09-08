@@ -34,6 +34,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olonisakindavid&show_icons=true&locale=en" alt="olonisakindavid" /></p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=olonisakindavid&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olonisakindavid&" alt="olonisakindavid" /></p>
 
 [![OlonisakinDavid's GitHub | Stats](https://stats.quine.sh/OlonisakinDavid/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=OlonisakinDavid)
