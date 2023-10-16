@@ -7,17 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/olonisakind" target="blank"><img src="https://img.shields.io/twitter/follow/olonisakind?logo=twitter&style=for-the-badge" alt="olonisakind" /></a> </p>
 
-- 🔭 I’m currently learning **Python (zero - mastery)** and **Flutter/Dart**
+- 🔭 I’m currently learning **Python (zero - mastery)**
 
-- 🌱 Knowledge on **Javascript and React**
+- 🌱 Minimal experience on **Javascript and React**
 
-- 💬 Ask me about **Web Development, Robotics, Python**
+- 💬 Ask me about **Artificial Intelligence, Robotics, Python**
 
-- 📫 How to reach me **olonisakin.david@stu.cu.edu.ng**
+- 📫 How to reach me **olonisakind@gmail.com**
 
 - ⚡ Fun fact **I play the bass guitar 🎸 and keyboard🎹**
 
-- 🏫 2022/2023 Covenant University EEE set, Cohort 7 Developer @ Robotics and Artificial Artificial Nigeria 
+- 🏫 2022/2023 Covenant University EEE set, Cohort 7 Developer @ Robotics and Artificial Artificial Nigeria
+
+- 🎧🎶Lo-Fi music Lover 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
