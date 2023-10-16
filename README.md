@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently learning **Python (zero - mastery)**
 
-- 🌱 Minimal experience on **Javascript and React**
+- 🌱 Exploring **Artificial Intelligence** daily
 
 - 💬 Ask me about **Artificial Intelligence, Robotics, Python**
 
