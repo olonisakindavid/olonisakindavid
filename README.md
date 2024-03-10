@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I play the bass guitar 🎸 and keyboard🎹**
 
-- 🏫 2022/2023 Covenant University EEE set, Cohort 7 Developer @ Robotics and Artificial Artificial Nigeria
+- 🏫 2022/2023 Covenant University EEE 18th set, Cohort 7 Developer @ Robotics and Artificial Artificial Nigeria
 
 - 🎧🎶Lo-Fi music Lover 
 
