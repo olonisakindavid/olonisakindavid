@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/olonisakind" target="blank"><img src="https://img.shields.io/twitter/follow/olonisakind?logo=twitter&style=for-the-badge" alt="olonisakind" /></a> </p>
 
-- 🔭 I’m currently learning **Python (zero - mastery)**
+- 🔭 I’m currently learning ****
 
 - 🌱 Exploring **Artificial Intelligence** daily
 
@@ -37,6 +37,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olonisakindavid&show_icons=true&locale=en" alt="olonisakindavid" /></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=olonisakindavid&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=olonisakindavid&theme=buefy" alt="GitHub Streak" /></a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olonisakindavid&" alt="olonisakindavid" /></p>
 
