@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/olonisakind" target="blank"><img src="https://img.shields.io/twitter/follow/olonisakind?logo=twitter&style=for-the-badge" alt="olonisakind" /></a> </p>
 
-- 🔭 I’m currently learning ****
+- 🔭 I’m currently learning **A.I in Healthcare, AI/ML Datascience**
 
 - 🌱 Exploring **Artificial Intelligence** daily
 
