@@ -39,8 +39,3 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=olonisakindavid&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=olonisakindavid&theme=buefy" alt="GitHub Streak" /></a>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olonisakindavid&" alt="olonisakindavid" /></p>
-
-[![OlonisakinDavid's GitHub | Stats](https://stats.quine.sh/OlonisakinDavid/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=OlonisakinDavid)
-
